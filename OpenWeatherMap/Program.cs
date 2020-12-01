@@ -1,4 +1,6 @@
 ﻿using System;
+using Microsoft.Extensions.Configuration.Json;
+using Newtonsoft.Json;
 
 namespace OpenWeatherMap
 {
